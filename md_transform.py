@@ -1,7 +1,7 @@
 import json
 from news_extractor import *
 
-def salvar_em_md(articles, filename="news.md"):
+def salvar_em_md(articles, filename="README.md"):
   with open(filename, "w", encoding="utf-8") as file:
     file.write('# Últimas Notícias de Tecnologia\n\n')
     for article in articles:
