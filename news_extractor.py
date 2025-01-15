@@ -28,7 +28,7 @@ def extrair_conteudo_artigo(article_url):
         return content.get_text(strip=True)
     return "Conteúdo do artigo não encontrado."
 
-# função onde vamos extrair as noticias
+# função onde extrai as noticias
 def extrair_news(html):
   soup = BeautifulSoup(html, "html.parser")
   articles = []

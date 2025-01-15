@@ -1,13 +1,13 @@
 # Últimas Notícias de Tecnologia
 
 ## Trump cogita decreto para suspender banimento do TikTok nos EUA, diz jornal
-**Conteúdo:** Uma lei assinada em abril de 2024 pelo atual presidente americano Joe Biden determina que o TikTok tem até o próximo domingo (19) para encontrar um comprador para sua operação nos EUA. Caso contrário, a rede social não poderá mais funcionar no país.Trump tomará posse um dia depois desse prazo, na segunda-feira (20). E, de acordo com duas fontes ouvidas pelo Washington Post, ele suspender temporariamente a lei sancionada por Biden logo no início de seu novo governo.Ainda segundo o jornal, há dúvi...
+**Conteúdo:** Uma lei assinada em abril de 2024 pelo atual presidente americano Joe Biden determina que o TikTok tem até o próximo domingo (19) para encontrar um comprador para sua operação nos EUA. Caso contrário, a rede social não poderá mais funcionar no país.ENTENDA:por que EUA querem que TikTok venda suas operações nos EUATrump tomará posse um dia depois desse prazo, na segunda-feira (20). E, de acordo com duas fontes ouvidas pelo Washington Post, ele cogita suspender temporariamente a lei sancionada por...
 
 [Leia a notícia completa](https://g1.globo.com/tecnologia/noticia/2025/01/15/trump-cogita-decreto-para-suspender-banimento-do-tiktok-nos-eua-diz-jornal.ghtml)
 
 ---
 ## TikTok planeja derrubar aplicativo nos EUA a partir de domingo, diz agência
-**Conteúdo:** Neste dia, termina o prazo para o TikTok vender a operação nos EUAe, assim, continuar funcionando no país.Trump cogita decreto para suspender banimento do TikTok, diz jornalO resultado da medida planejada pela rede social seria diferente daquele determinado pela lei. A legislação determina a proibição apenas de novos downloads do TikTok nas lojas de aplicativos da Apple ou do Google, enquanto os usuários existentes poderiam continuar a usá-lo por algum tempo.De acordo com o plano do TikTok,as pe...
+**Conteúdo:** Neste dia, termina o prazo para a rede social vender sua operação nos EUA— uma condição imposta por lei para que o app chinês continue funcionando no país.ENTENDA:por que EUA querem que TikTok venda suas operações nos EUATrump cogita decreto para suspender banimento, diz jornalA consequência planejada pelo TikTok, de derrubar o aplicativo nos EUA, seria mais radical do que a determinada pela lei.Segundo a Reuters, a legislação ordena aproibição apenas de novos downloadsdo aplicativo nas lojas da...
 
 [Leia a notícia completa](https://g1.globo.com/tecnologia/noticia/2025/01/15/tiktok-planeja-derrubar-aplicativo-nos-eua-a-partir-de-domingo-dizem-agencia.ghtml)
 
