@@ -7,7 +7,7 @@
 
 ---
 ## TikTok planeja derrubar aplicativo nos EUA a partir de domingo, diz agência
-**Conteúdo:** Neste dia, termina o prazo para o TikTok vender a operação nos EUAe, assim, continuar funcionando no país.O resultado da medida planejada pela rede social seria diferente daquele determinado pela lei. A legislação determina a proibição apenas de novos downloads do TikTok nas lojas de aplicativos da Apple ou do Google, enquanto os usuários existentes poderiam continuar a usá-lo por algum tempo.De acordo com o plano do TikTok,as pessoas que tentarem abrir o aplicativo nos EUA verão uma mensagem po...
+**Conteúdo:** Neste dia, termina o prazo para o TikTok vender a operação nos EUAe, assim, continuar funcionando no país.Trump cogita decreto para suspender banimento do TikTok, diz jornalO resultado da medida planejada pela rede social seria diferente daquele determinado pela lei. A legislação determina a proibição apenas de novos downloads do TikTok nas lojas de aplicativos da Apple ou do Google, enquanto os usuários existentes poderiam continuar a usá-lo por algum tempo.De acordo com o plano do TikTok,as pe...
 
 [Leia a notícia completa](https://g1.globo.com/tecnologia/noticia/2025/01/15/tiktok-planeja-derrubar-aplicativo-nos-eua-a-partir-de-domingo-dizem-agencia.ghtml)
 
